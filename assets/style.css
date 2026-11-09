@@ -1,0 +1,89 @@
+/* Дашборд процесса разработки ПО — пользовательская стилизация */
+
+body {
+    background-color: #f8f9fa;
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.dashboard-title {
+    color: #212529;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.dashboard-subtitle {
+    color: #6c757d;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+
+.upload-box {
+    border: 2px dashed #adb5bd;
+    border-radius: 8px;
+    padding: 24px;
+    text-align: center;
+    background-color: #fff;
+    transition: border-color 0.2s, background-color 0.2s;
+    cursor: pointer;
+}
+
+.upload-box:hover {
+    border-color: #0d6efd;
+    background-color: #f0f7ff;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s, box-shadow 0.2s;
+    background-color: #ffffff;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.12);
+}
+
+.card-header {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #495057;
+    border-bottom: 1px solid #e9ecef;
+    padding: 0.75rem 1.25rem;
+}
+
+.form-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.5rem;
+}
+
+.dash-table-container .dash-spreadsheet {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.dash-spreadsheet-cell {
+    border: none !important;
+}
+
+.dash-spreadsheet-header {
+    background-color: #f8f9fa !important;
+    color: #495057 !important;
+    font-weight: 600 !important;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+.mt-4 {
+    margin-top: 1.5rem !important;
+}
