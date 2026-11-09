@@ -1,0 +1,281 @@
+date,sprint,team,issue_type,priority,status,story_points,lead_time_days,cycle_time_days,bugs_fixed,commits
+2024-01-01,Sprint 1,Backend,Bug,High,Done,8,6.8,6.2,2,0
+2024-01-01,Sprint 1,DevOps,Task,Medium,In Progress,8,5.9,5.4,0,3
+2024-01-02,Sprint 1,DevOps,Feature,Low,Done,1,0.5,0.5,0,3
+2024-01-02,Sprint 1,Backend,Bug,Medium,Done,3,3.9,3.3,1,33
+2024-01-03,Sprint 1,Frontend,Feature,Medium,Blocked,13,8.3,6.3,1,36
+2024-01-05,Sprint 1,QA,Feature,Critical,Done,3,2.5,1.9,0,20
+2024-01-06,Sprint 1,Backend,Feature,Low,Done,2,1.1,0.6,1,36
+2024-01-07,Sprint 1,QA,Task,High,In Progress,1,0.5,0.5,0,23
+2024-01-07,Sprint 1,Backend,Feature,High,Done,2,0.6,0.6,2,6
+2024-01-08,Sprint 1,Frontend,Task,Medium,Done,1,0.8,0.5,0,21
+2024-01-09,Sprint 1,Backend,Feature,Medium,In Progress,3,2.0,1.9,2,2
+2024-01-09,Sprint 1,DevOps,Feature,Medium,Done,5,4.6,3.6,0,0
+2024-01-09,Sprint 1,Frontend,Feature,Medium,Done,8,4.7,2.0,0,23
+2024-01-12,Sprint 1,Frontend,Task,High,Done,5,2.6,2.4,2,22
+2024-01-12,Sprint 1,Frontend,Task,Critical,In Progress,8,3.5,1.7,3,26
+2024-01-13,Sprint 1,Frontend,Feature,Medium,Done,5,4.2,2.5,3,6
+2024-01-14,Sprint 1,Frontend,Feature,Medium,Done,1,0.5,0.5,0,25
+2024-01-15,Sprint 2,DevOps,Feature,High,In Progress,5,3.4,3.3,0,21
+2024-01-15,Sprint 2,Backend,Task,Medium,Done,1,1.8,1.8,0,20
+2024-01-16,Sprint 2,Frontend,Bug,Medium,Done,13,7.5,3.5,10,0
+2024-01-16,Sprint 2,QA,Bug,Medium,Blocked,5,2.1,1.8,4,21
+2024-01-17,Sprint 2,QA,Bug,High,Done,3,0.5,0.5,5,18
+2024-01-17,Sprint 2,QA,Bug,Medium,In Progress,1,0.5,0.5,3,19
+2024-01-17,Sprint 2,DevOps,Feature,Medium,Done,2,0.6,0.5,1,32
+2024-01-18,Sprint 2,QA,Bug,Low,Blocked,8,5.1,2.3,9,15
+2024-01-18,Sprint 2,Backend,Bug,Medium,Done,2,0.9,0.5,1,4
+2024-01-18,Sprint 2,Frontend,Bug,Low,Done,8,3.2,2.0,7,6
+2024-01-19,Sprint 2,DevOps,Task,Low,Done,2,0.7,0.6,1,7
+2024-01-19,Sprint 2,DevOps,Bug,High,Done,5,1.5,1.1,8,10
+2024-01-19,Sprint 2,QA,Task,High,Done,3,0.5,0.5,0,40
+2024-01-21,Sprint 2,Backend,Feature,Low,Done,2,1.4,0.8,2,9
+2024-01-21,Sprint 2,DevOps,Task,Low,In Progress,1,0.5,0.5,0,24
+2024-01-21,Sprint 2,Backend,Task,Critical,Done,3,1.4,1.2,0,24
+2024-01-22,Sprint 2,Frontend,Task,Medium,Done,8,2.7,1.8,1,31
+2024-01-23,Sprint 2,Frontend,Feature,Critical,Done,2,1.1,0.5,0,25
+2024-01-24,Sprint 2,Frontend,Bug,High,Done,3,1.0,0.5,7,16
+2024-01-24,Sprint 2,DevOps,Feature,Medium,Done,2,0.7,0.5,1,1
+2024-01-24,Sprint 2,Backend,Task,High,Done,1,2.8,2.7,0,1
+2024-01-25,Sprint 2,Frontend,Task,Medium,Done,1,1.7,0.8,1,23
+2024-01-25,Sprint 2,Frontend,Feature,Critical,Done,3,2.2,1.9,0,1
+2024-01-25,Sprint 2,Frontend,Task,Low,Done,3,3.1,3.0,0,38
+2024-01-26,Sprint 2,DevOps,Task,High,Done,5,2.6,1.9,0,21
+2024-01-26,Sprint 2,DevOps,Feature,High,Done,2,0.5,0.5,2,33
+2024-01-27,Sprint 2,DevOps,Task,Medium,In Progress,2,1.7,1.5,0,37
+2024-01-27,Sprint 2,DevOps,Feature,Medium,Done,5,3.5,3.3,0,21
+2024-01-28,Sprint 2,QA,Feature,Medium,In Progress,5,2.8,1.4,0,17
+2024-01-28,Sprint 2,Frontend,Bug,High,Done,3,2.5,1.6,9,31
+2024-01-29,Sprint 3,Frontend,Bug,Medium,Done,1,1.9,1.1,7,30
+2024-01-29,Sprint 3,QA,Bug,Medium,Done,2,3.1,1.9,8,12
+2024-01-29,Sprint 3,Frontend,Feature,Medium,Done,5,3.2,3.1,1,37
+2024-01-29,Sprint 3,Frontend,Task,Medium,Done,3,2.0,1.0,0,8
+2024-01-30,Sprint 3,Frontend,Feature,Medium,Done,13,8.2,6.0,1,6
+2024-01-31,Sprint 3,DevOps,Task,Low,Done,3,0.9,0.5,0,31
+2024-02-01,Sprint 3,QA,Feature,Low,Done,3,2.4,1.0,0,35
+2024-02-02,Sprint 3,DevOps,Task,Medium,Done,3,2.4,1.7,0,27
+2024-02-02,Sprint 3,Frontend,Feature,Medium,Done,3,1.3,1.0,1,5
+2024-02-03,Sprint 3,QA,Feature,Low,Done,1,1.1,0.7,0,18
+2024-02-05,Sprint 3,Frontend,Task,Medium,Done,3,2.2,1.8,3,9
+2024-02-05,Sprint 3,QA,Task,Medium,Done,5,3.9,2.3,1,19
+2024-02-05,Sprint 3,DevOps,Bug,Low,Done,8,5.2,3.6,8,27
+2024-02-05,Sprint 3,Backend,Task,Critical,Done,3,3.0,2.4,2,17
+2024-02-06,Sprint 3,DevOps,Bug,Critical,Done,5,3.4,1.7,9,37
+2024-02-09,Sprint 3,Backend,Bug,High,Done,5,4.6,3.0,6,31
+2024-02-09,Sprint 3,DevOps,Feature,Low,Done,8,4.6,4.1,0,7
+2024-02-09,Sprint 3,DevOps,Task,Low,Done,2,0.5,0.5,0,39
+2024-02-10,Sprint 3,Frontend,Task,Critical,Done,3,1.8,1.5,0,31
+2024-02-10,Sprint 3,DevOps,Feature,Low,Blocked,13,7.0,3.5,0,7
+2024-02-10,Sprint 3,QA,Bug,Medium,Done,1,0.5,0.5,8,30
+2024-02-11,Sprint 3,Frontend,Task,High,Done,2,0.5,0.5,0,26
+2024-02-11,Sprint 3,QA,Feature,High,Done,5,2.9,1.6,0,31
+2024-02-11,Sprint 3,QA,Task,High,Blocked,2,0.5,0.5,0,15
+2024-02-12,Sprint 4,QA,Bug,High,Done,2,1.7,1.5,1,24
+2024-02-13,Sprint 4,QA,Feature,High,In Progress,3,3.6,2.5,0,28
+2024-02-15,Sprint 4,Frontend,Feature,Low,Done,8,1.9,0.8,0,16
+2024-02-16,Sprint 4,DevOps,Feature,Critical,Done,3,0.8,0.7,2,31
+2024-02-18,Sprint 4,QA,Task,Critical,Done,1,0.5,0.5,1,27
+2024-02-18,Sprint 4,Backend,Task,Low,Done,5,3.1,1.5,0,18
+2024-02-19,Sprint 4,Frontend,Feature,Low,Done,2,1.1,0.6,0,24
+2024-02-19,Sprint 4,DevOps,Bug,Medium,Done,2,2.2,1.5,5,29
+2024-02-20,Sprint 4,QA,Task,Critical,Done,3,1.8,0.9,0,27
+2024-02-20,Sprint 4,Frontend,Bug,Medium,Done,3,0.7,0.6,2,18
+2024-02-21,Sprint 4,QA,Task,Low,In Progress,2,6.0,5.9,1,3
+2024-02-23,Sprint 4,QA,Task,Medium,Done,5,4.5,3.9,0,16
+2024-02-24,Sprint 4,Backend,Bug,Critical,Done,5,1.0,0.8,3,19
+2024-02-24,Sprint 4,DevOps,Task,Low,Done,1,0.6,0.6,0,34
+2024-02-24,Sprint 4,Frontend,Task,Medium,In Progress,2,2.1,1.5,0,30
+2024-02-24,Sprint 4,Frontend,Task,High,Done,2,3.1,2.1,0,25
+2024-02-25,Sprint 4,Backend,Task,Medium,Done,5,1.7,1.1,1,23
+2024-02-25,Sprint 4,Frontend,Bug,Medium,Done,3,0.5,0.5,2,35
+2024-02-26,Sprint 5,DevOps,Feature,Critical,Done,3,1.0,0.8,1,26
+2024-02-26,Sprint 5,Frontend,Feature,Medium,Done,1,4.9,2.3,0,34
+2024-02-26,Sprint 5,Backend,Bug,High,Done,5,4.2,2.1,7,17
+2024-02-26,Sprint 5,QA,Feature,Medium,Blocked,2,0.5,0.5,0,22
+2024-02-27,Sprint 5,DevOps,Feature,Low,Done,2,2.6,2.6,3,40
+2024-02-27,Sprint 5,Frontend,Bug,Low,Done,1,1.3,0.6,10,13
+2024-02-28,Sprint 5,Backend,Bug,Medium,Blocked,5,2.4,1.3,3,8
+2024-02-28,Sprint 5,Frontend,Bug,Medium,Done,5,5.1,2.4,6,16
+2024-02-28,Sprint 5,DevOps,Feature,Medium,Done,5,4.8,3.4,1,37
+2024-02-28,Sprint 5,QA,Feature,Medium,Blocked,3,2.5,2.2,2,3
+2024-02-29,Sprint 5,DevOps,Task,Low,Done,5,3.1,2.0,0,38
+2024-02-29,Sprint 5,QA,Feature,Medium,Done,1,0.5,0.5,0,6
+2024-03-01,Sprint 5,Frontend,Task,Medium,In Progress,1,0.5,0.5,2,26
+2024-03-02,Sprint 5,QA,Feature,Critical,Done,3,1.7,1.1,1,30
+2024-03-02,Sprint 5,QA,Feature,High,Done,5,3.5,1.6,0,37
+2024-03-03,Sprint 5,DevOps,Task,High,Done,3,1.6,1.5,3,18
+2024-03-03,Sprint 5,Frontend,Bug,High,Done,2,0.5,0.5,4,6
+2024-03-03,Sprint 5,Backend,Feature,Medium,Done,3,2.9,1.6,0,17
+2024-03-04,Sprint 5,QA,Feature,Low,In Progress,2,2.2,1.9,3,36
+2024-03-04,Sprint 5,Frontend,Bug,Medium,Done,1,0.9,0.5,9,10
+2024-03-04,Sprint 5,Backend,Feature,High,Done,5,0.5,0.5,0,39
+2024-03-05,Sprint 5,Frontend,Feature,High,Done,1,0.5,0.5,0,27
+2024-03-08,Sprint 5,QA,Feature,Low,Done,3,2.6,2.0,0,38
+2024-03-08,Sprint 5,Backend,Feature,Low,Done,2,3.5,3.0,0,11
+2024-03-08,Sprint 5,QA,Feature,Low,In Progress,3,1.5,0.8,0,2
+2024-03-08,Sprint 5,DevOps,Bug,Medium,Done,3,3.1,2.0,7,20
+2024-03-08,Sprint 5,QA,Feature,Low,In Progress,8,5.4,3.7,1,15
+2024-03-09,Sprint 5,QA,Bug,High,Done,2,3.7,3.1,4,40
+2024-03-09,Sprint 5,Frontend,Feature,Medium,Done,3,3.3,3.1,0,12
+2024-03-09,Sprint 5,DevOps,Feature,High,Done,1,1.1,1.1,1,28
+2024-03-10,Sprint 5,QA,Bug,High,Done,8,4.4,3.5,10,9
+2024-03-11,Sprint 6,Backend,Bug,Medium,Done,3,0.7,0.5,6,3
+2024-03-12,Sprint 6,Backend,Feature,Medium,Done,2,0.5,0.5,3,29
+2024-03-12,Sprint 6,Frontend,Bug,Medium,Done,8,4.9,4.6,10,9
+2024-03-12,Sprint 6,Backend,Task,Medium,Done,3,1.8,1.6,2,15
+2024-03-12,Sprint 6,DevOps,Task,Medium,Done,13,6.0,3.7,2,38
+2024-03-12,Sprint 6,DevOps,Feature,Medium,Done,3,1.9,1.1,0,38
+2024-03-15,Sprint 6,DevOps,Task,Low,Done,2,1.0,0.6,3,5
+2024-03-16,Sprint 6,Backend,Feature,Medium,Done,2,1.3,1.1,2,23
+2024-03-16,Sprint 6,Frontend,Feature,Low,Done,2,2.6,2.2,0,6
+2024-03-17,Sprint 6,Backend,Bug,High,In Progress,3,1.8,1.5,9,39
+2024-03-19,Sprint 6,Frontend,Feature,High,Done,2,2.8,2.4,2,23
+2024-03-20,Sprint 6,DevOps,Bug,Medium,Done,2,3.5,2.3,5,30
+2024-03-21,Sprint 6,DevOps,Task,Medium,Done,1,0.5,0.5,1,10
+2024-03-21,Sprint 6,DevOps,Task,High,Done,5,1.8,0.9,0,6
+2024-03-23,Sprint 6,Frontend,Task,High,Done,3,2.5,1.2,0,14
+2024-03-24,Sprint 6,DevOps,Task,Medium,Done,8,5.3,5.1,0,5
+2024-03-25,Sprint 7,Frontend,Feature,Low,In Progress,1,3.1,2.4,1,30
+2024-03-27,Sprint 7,Backend,Bug,Critical,Done,1,0.5,0.5,8,13
+2024-03-27,Sprint 7,QA,Task,Low,Done,3,1.9,0.9,0,40
+2024-03-27,Sprint 7,Backend,Task,Medium,Done,3,0.7,0.5,2,9
+2024-03-28,Sprint 7,QA,Feature,Low,Done,1,0.5,0.5,1,32
+2024-03-28,Sprint 7,Backend,Task,Medium,Blocked,3,3.4,1.4,2,16
+2024-03-29,Sprint 7,QA,Task,Low,Done,2,2.4,1.9,0,21
+2024-03-31,Sprint 7,DevOps,Task,Medium,In Progress,1,1.4,1.2,0,4
+2024-03-31,Sprint 7,QA,Task,Critical,Done,8,5.7,5.0,2,34
+2024-04-01,Sprint 7,QA,Bug,High,Done,1,1.2,0.9,5,21
+2024-04-02,Sprint 7,QA,Feature,Critical,Done,5,2.1,1.4,3,31
+2024-04-02,Sprint 7,DevOps,Feature,Low,Done,5,3.7,2.1,0,11
+2024-04-02,Sprint 7,DevOps,Bug,Low,Done,2,3.1,1.8,10,28
+2024-04-03,Sprint 7,QA,Feature,Medium,Done,8,5.8,3.5,3,3
+2024-04-04,Sprint 7,Frontend,Feature,High,Done,3,0.7,0.6,3,28
+2024-04-05,Sprint 7,DevOps,Feature,Critical,Done,1,2.7,2.3,0,9
+2024-04-05,Sprint 7,QA,Bug,Medium,Done,8,3.5,2.6,9,15
+2024-04-06,Sprint 7,Backend,Task,Medium,Done,1,2.5,1.3,0,28
+2024-04-07,Sprint 7,Backend,Feature,Medium,In Progress,3,0.6,0.5,0,28
+2024-04-07,Sprint 7,QA,Task,High,Done,5,0.5,0.5,3,18
+2024-04-07,Sprint 7,Frontend,Task,Low,Done,5,2.6,2.0,1,8
+2024-04-07,Sprint 7,DevOps,Feature,High,Done,3,0.5,0.5,0,39
+2024-04-08,Sprint 8,DevOps,Task,High,Done,1,0.5,0.5,0,20
+2024-04-11,Sprint 8,Frontend,Bug,High,Done,2,2.7,2.2,6,40
+2024-04-12,Sprint 8,Frontend,Bug,Medium,Done,5,4.2,3.9,2,14
+2024-04-12,Sprint 8,QA,Feature,Low,Blocked,8,5.9,5.5,2,17
+2024-04-12,Sprint 8,Frontend,Feature,Low,Done,2,0.5,0.5,3,38
+2024-04-13,Sprint 8,Backend,Feature,Low,Done,8,4.6,2.0,2,36
+2024-04-14,Sprint 8,QA,Feature,Medium,Done,2,0.5,0.5,2,15
+2024-04-15,Sprint 8,Backend,Task,Low,Done,3,1.4,0.8,0,29
+2024-04-17,Sprint 8,DevOps,Feature,Low,Done,3,1.4,1.2,2,35
+2024-04-18,Sprint 8,Frontend,Feature,Low,Done,2,3.4,1.6,0,24
+2024-04-18,Sprint 8,QA,Task,Low,Done,2,4.1,3.6,3,32
+2024-04-18,Sprint 8,DevOps,Bug,Medium,Blocked,8,4.3,3.0,2,13
+2024-04-18,Sprint 8,QA,Bug,Medium,In Progress,1,0.7,0.6,8,27
+2024-04-18,Sprint 8,Backend,Feature,Medium,Done,2,3.2,2.0,0,12
+2024-04-18,Sprint 8,Backend,Feature,Low,Done,2,0.6,0.5,2,23
+2024-04-19,Sprint 8,Frontend,Task,Medium,Done,2,2.5,2.4,1,2
+2024-04-20,Sprint 8,Frontend,Feature,Medium,Done,1,0.5,0.5,1,10
+2024-04-21,Sprint 8,DevOps,Feature,High,Done,3,3.3,3.0,0,1
+2024-04-22,Sprint 9,Backend,Feature,Medium,Done,3,3.7,3.2,1,37
+2024-04-24,Sprint 9,DevOps,Bug,Low,Done,5,3.0,2.3,3,2
+2024-04-24,Sprint 9,Frontend,Bug,Medium,Done,5,3.7,2.4,7,30
+2024-04-25,Sprint 9,Frontend,Task,Medium,Blocked,5,4.5,2.0,0,30
+2024-04-26,Sprint 9,QA,Bug,Medium,Done,2,2.8,1.7,6,15
+2024-04-26,Sprint 9,QA,Feature,High,Done,2,3.9,3.8,3,31
+2024-04-27,Sprint 9,DevOps,Feature,High,Done,2,3.6,2.0,0,22
+2024-04-27,Sprint 9,Backend,Task,Medium,Done,5,2.4,1.4,0,16
+2024-04-28,Sprint 9,Backend,Task,Medium,Done,2,2.0,1.5,0,15
+2024-04-29,Sprint 9,Backend,Feature,Medium,Done,8,4.1,2.2,0,6
+2024-04-29,Sprint 9,DevOps,Bug,High,Done,1,4.3,2.1,8,18
+2024-05-01,Sprint 9,Frontend,Feature,Medium,Done,3,1.4,1.3,0,2
+2024-05-01,Sprint 9,DevOps,Task,High,Done,1,1.6,1.5,3,18
+2024-05-01,Sprint 9,QA,Task,Medium,Blocked,1,0.5,0.5,0,34
+2024-05-04,Sprint 9,QA,Bug,Low,Done,8,5.8,3.3,2,16
+2024-05-04,Sprint 9,Frontend,Task,Low,In Progress,1,2.1,1.3,0,25
+2024-05-05,Sprint 9,QA,Task,Critical,Done,3,3.7,1.9,0,24
+2024-05-06,Sprint 10,Backend,Feature,Medium,Done,5,4.2,4.1,0,15
+2024-05-07,Sprint 10,QA,Feature,High,Done,1,0.6,0.5,2,18
+2024-05-08,Sprint 10,DevOps,Feature,High,Done,2,2.7,2.6,0,26
+2024-05-09,Sprint 10,Backend,Task,Medium,Done,8,5.0,4.5,1,23
+2024-05-09,Sprint 10,Frontend,Feature,Medium,Done,3,0.5,0.5,0,20
+2024-05-09,Sprint 10,DevOps,Task,High,Done,2,0.8,0.6,2,32
+2024-05-10,Sprint 10,Backend,Bug,Medium,In Progress,3,0.5,0.5,5,13
+2024-05-11,Sprint 10,DevOps,Bug,Low,Done,1,0.8,0.8,2,8
+2024-05-12,Sprint 10,DevOps,Task,Medium,In Progress,13,8.0,6.3,0,24
+2024-05-15,Sprint 10,Frontend,Feature,Critical,Done,3,1.4,1.1,0,8
+2024-05-15,Sprint 10,QA,Task,Medium,Done,2,0.5,0.5,0,27
+2024-05-15,Sprint 10,Backend,Bug,High,Done,5,3.3,1.9,2,1
+2024-05-16,Sprint 10,Backend,Feature,Medium,Done,1,2.2,1.7,0,28
+2024-05-16,Sprint 10,QA,Feature,Medium,Done,2,1.9,1.3,0,20
+2024-05-17,Sprint 10,DevOps,Feature,Medium,Done,8,4.6,4.6,0,37
+2024-05-17,Sprint 10,DevOps,Task,High,Done,8,4.0,2.8,3,26
+2024-05-17,Sprint 10,DevOps,Bug,Medium,Done,2,0.7,0.5,9,9
+2024-05-17,Sprint 10,Frontend,Task,Medium,Done,8,2.0,1.5,0,5
+2024-05-18,Sprint 10,Frontend,Task,Low,Done,5,2.0,0.9,1,38
+2024-05-18,Sprint 10,Frontend,Bug,Medium,In Progress,8,5.7,4.8,9,21
+2024-05-18,Sprint 10,Backend,Feature,High,Done,8,6.8,3.6,0,15
+2024-05-19,Sprint 10,DevOps,Bug,Medium,Done,5,2.5,1.5,5,19
+2024-05-19,Sprint 10,DevOps,Feature,High,Done,3,2.7,1.9,0,13
+2024-05-20,Sprint 11,DevOps,Feature,Medium,Done,2,0.8,0.5,0,14
+2024-05-21,Sprint 11,QA,Feature,Medium,In Progress,5,2.9,2.0,1,31
+2024-05-21,Sprint 11,Backend,Bug,Medium,In Progress,5,2.9,2.1,3,4
+2024-05-21,Sprint 11,Frontend,Task,Low,Done,3,2.7,2.3,0,13
+2024-05-22,Sprint 11,DevOps,Bug,Low,Done,2,0.5,0.5,8,26
+2024-05-23,Sprint 11,Backend,Feature,Medium,Done,3,0.9,0.5,3,27
+2024-05-23,Sprint 11,QA,Task,High,Done,8,5.3,2.6,0,25
+2024-05-25,Sprint 11,Frontend,Feature,Medium,In Progress,8,5.2,3.5,0,5
+2024-05-25,Sprint 11,DevOps,Bug,Low,Done,5,3.3,2.1,9,10
+2024-05-26,Sprint 11,Backend,Feature,High,In Progress,5,2.7,2.1,0,14
+2024-05-27,Sprint 11,QA,Feature,High,Done,5,4.3,1.8,0,2
+2024-05-27,Sprint 11,Frontend,Feature,High,Done,5,2.4,1.0,0,25
+2024-05-29,Sprint 11,QA,Task,Medium,Done,2,0.5,0.5,1,5
+2024-05-29,Sprint 11,Frontend,Bug,High,Done,13,7.0,3.0,7,39
+2024-05-30,Sprint 11,DevOps,Task,Medium,Done,2,1.6,0.9,3,24
+2024-05-30,Sprint 11,QA,Bug,High,Done,3,1.9,1.5,2,5
+2024-05-30,Sprint 11,Backend,Feature,Low,Done,2,1.7,1.1,0,23
+2024-05-31,Sprint 11,DevOps,Task,Low,Done,1,0.5,0.5,0,35
+2024-06-01,Sprint 11,Backend,Feature,High,Done,3,1.6,0.9,0,15
+2024-06-01,Sprint 11,QA,Bug,Medium,Done,1,2.1,1.3,3,4
+2024-06-02,Sprint 11,DevOps,Feature,Medium,Done,2,1.0,0.6,3,6
+2024-06-03,Sprint 12,DevOps,Feature,High,Done,1,3.0,1.9,2,21
+2024-06-03,Sprint 12,Frontend,Bug,Medium,Done,5,2.3,1.3,10,25
+2024-06-04,Sprint 12,Frontend,Task,Medium,Done,2,0.5,0.5,0,25
+2024-06-04,Sprint 12,Backend,Feature,Critical,Done,8,6.2,3.1,1,13
+2024-06-04,Sprint 12,DevOps,Bug,Low,Done,2,5.5,4.5,7,16
+2024-06-07,Sprint 12,DevOps,Bug,Medium,In Progress,5,3.4,3.4,8,26
+2024-06-09,Sprint 12,Backend,Bug,Low,Done,5,2.8,1.7,9,22
+2024-06-09,Sprint 12,QA,Feature,Critical,Done,3,0.6,0.5,3,0
+2024-06-09,Sprint 12,Frontend,Feature,Medium,Done,2,0.9,0.8,0,37
+2024-06-10,Sprint 12,Backend,Bug,High,Done,1,2.4,1.4,2,22
+2024-06-11,Sprint 12,DevOps,Feature,Low,Done,3,2.1,1.1,0,28
+2024-06-11,Sprint 12,Frontend,Feature,Critical,Done,2,1.8,1.6,1,33
+2024-06-12,Sprint 12,Frontend,Feature,High,Done,1,0.5,0.5,3,11
+2024-06-12,Sprint 12,DevOps,Bug,Medium,Done,2,3.2,1.7,10,13
+2024-06-12,Sprint 12,Frontend,Feature,Medium,Done,5,3.6,3.2,0,7
+2024-06-13,Sprint 12,Backend,Feature,Medium,In Progress,5,1.6,1.2,1,39
+2024-06-13,Sprint 12,Backend,Feature,High,Done,3,1.9,1.7,2,15
+2024-06-14,Sprint 12,DevOps,Feature,Medium,Done,1,0.6,0.5,0,34
+2024-06-14,Sprint 12,Frontend,Bug,Medium,Done,3,0.8,0.8,9,20
+2024-06-15,Sprint 12,DevOps,Task,Critical,Done,3,4.1,2.8,0,31
+2024-06-15,Sprint 12,DevOps,Bug,Low,Done,3,0.5,0.5,8,14
+2024-06-16,Sprint 12,DevOps,Feature,Medium,Done,2,0.9,0.6,1,7
+2024-06-16,Sprint 12,Backend,Feature,High,Done,3,2.0,2.0,0,13
+2024-06-17,Sprint 13,DevOps,Task,Medium,In Progress,1,2.0,1.2,3,5
+2024-06-17,Sprint 13,Frontend,Bug,High,Done,13,5.9,5.1,4,22
+2024-06-18,Sprint 13,Backend,Task,Medium,Done,3,0.7,0.6,2,38
+2024-06-20,Sprint 13,QA,Bug,Critical,Done,2,2.3,1.9,5,6
+2024-06-20,Sprint 13,Frontend,Feature,Medium,Done,5,2.9,1.6,1,15
+2024-06-20,Sprint 13,QA,Task,Medium,Done,3,2.4,1.7,0,4
+2024-06-21,Sprint 13,DevOps,Bug,Critical,Done,8,6.1,3.5,6,0
+2024-06-22,Sprint 13,QA,Task,High,Done,5,4.0,1.8,3,25
+2024-06-23,Sprint 13,Frontend,Feature,Medium,Done,2,1.8,1.6,0,21
+2024-06-23,Sprint 13,DevOps,Task,Low,In Progress,5,4.2,1.8,1,10
+2024-06-23,Sprint 13,QA,Bug,Low,In Progress,1,1.8,1.5,3,17
+2024-06-23,Sprint 13,Frontend,Feature,Low,Done,2,1.4,0.6,1,14
+2024-06-24,Sprint 13,Frontend,Bug,Medium,Done,1,1.7,0.8,10,0
+2024-06-25,Sprint 13,Frontend,Bug,Medium,Done,5,3.7,3.7,7,5
+2024-06-25,Sprint 13,Frontend,Task,Medium,Done,1,0.5,0.5,1,4
+2024-06-27,Sprint 13,QA,Bug,High,Done,1,3.3,2.6,8,9
+2024-06-28,Sprint 13,Backend,Task,Medium,Done,3,1.4,1.3,0,27
+2024-06-28,Sprint 13,QA,Feature,High,Done,1,1.3,0.7,0,19
+2024-06-29,Sprint 13,Frontend,Feature,Medium,Done,3,2.6,2.0,1,31
+2024-06-30,Sprint 13,QA,Bug,Critical,Done,1,2.2,2.1,1,36
